@@ -1,5 +1,3 @@
-package basic_tutorial
-
 /*
 object helloworld extends App {
   println("Hello, World!")
