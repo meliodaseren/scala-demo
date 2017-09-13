@@ -1,4 +1,3 @@
-
 import scala.collection.mutable
 
 class test_maps_class {
