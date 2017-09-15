@@ -8,7 +8,9 @@ class Point2D {
   def distance(p: Point2D) = sqrt((x - p.x) * (x - p.x) + (y - p.y) * (y - p.y))
 }
 
-class X { def f (x: Int) = x + 2 }
+class X {
+  def f (x: Int) = x + 2
+}
 
 class Person {
   var name:String = ""
