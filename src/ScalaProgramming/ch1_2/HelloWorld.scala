@@ -1,4 +1,4 @@
-package ScalaProgramming.ch2
+package ScalaProgramming.ch1_2
 
 object HelloWorld {
   def main(args: Array[String]):Unit = {

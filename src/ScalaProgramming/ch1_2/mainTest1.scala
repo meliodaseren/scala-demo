@@ -1,4 +1,4 @@
-package ScalaProgramming.ch2
+package ScalaProgramming.ch1_2
 import scala.math._
 
 class Point2D(val x: Double = 0.0, val y: Double = 0.0) {
