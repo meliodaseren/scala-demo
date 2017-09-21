@@ -21,6 +21,3 @@ object caseClass {
   }
 }
 
-
-
-
