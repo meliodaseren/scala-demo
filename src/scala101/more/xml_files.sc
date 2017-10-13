@@ -1,6 +1,6 @@
 import scala.xml.XML
 
-val doc = XML.loadFile("/home/cloudera/IdeaProjects/scala101/resources/map.xml")
+val doc = XML.loadFile("D:/IdeaProjects/scala-demo/resources/map.xml")
 
 val rooms = doc \ "room"
 rooms.size

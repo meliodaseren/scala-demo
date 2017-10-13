@@ -1,6 +1,6 @@
 import scala.io.Source
 
-val book = Source.fromFile("/home/cloudera/IdeaProjects/scala101/resources/war_and_peace.txt")
+val book = Source.fromFile("D:/IdeaProjects/scala-demo/resources/war_and_peace.txt")
 book.take(100).foreach(print)
 
 val lines = book.getLines()
