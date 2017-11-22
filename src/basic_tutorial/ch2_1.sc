@@ -1,3 +1,7 @@
+/* Scala For Impatient */
+
+/* This Worksheet need to use REPL Mode */
+
 /* 2.1 */
 
 val x = 0

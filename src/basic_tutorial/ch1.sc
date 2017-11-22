@@ -1,4 +1,7 @@
+/* Scala For Impatient */
+
 /* This Worksheet need to use REPL Mode */
+
 /* 1.1 */
 
 8 * 5 + 2
